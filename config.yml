@@ -1,0 +1,13 @@
+baseURL: https://www.fooabc.com/
+languageCode: en-us
+title: Athan's Blog
+paginate: 15
+enableRobotsTXT: true
+theme: PaperMod
+Params:
+    ShowReadingTime: true
+    ShowToc: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    defaultTheme: auto
+    ShowWordCount: true
