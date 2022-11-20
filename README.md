@@ -2,4 +2,4 @@
 
 ## new blog
 
-`hugo new post/postname.md`
+`hugo new post/postname.md` 
